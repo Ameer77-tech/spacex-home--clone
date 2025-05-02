@@ -53,16 +53,16 @@ body, html{
     background-image: url('/two.jpg');
 }
 .sec3{
-    background-image: url('three.jpg');
+    background-image: url('/three.jpg');
 }
 .sec4{
-    background-image: url('four.jpg');
+    background-image: url('/four.jpg');
 }
 .sec5{
-    background-image: url('five.jpg');
+    background-image: url('/five.jpg');
 }
 .sec6{
-    background-image: url('six.jpg');
+    background-image: url('/six.jpg');
 }
 body::-webkit-scrollbar {
     display: none; 
